@@ -16,10 +16,11 @@ Core profiles:
 Value sets and code systems for:
 
 Device types
-Measurement methods
-Activity metrics
-Vital signs
-Sleep metrics
+  * Measurement methods
+  * Activity metrics
+  * Vital signs
+  * Sleep metrics
+
 Documentation pages:
 
 Home page with overview
