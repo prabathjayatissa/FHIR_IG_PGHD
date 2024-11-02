@@ -3,8 +3,10 @@ created a comprehensive FHIR Implementation Guide for wearable device data with:
 
 Core profiles:
 
-WearableDevice
-WearableObservation (base profile)
+WearableDevice,
+
+WearableObservation (base profile),
+
 ActivityObservation
 WearableVitalSigns
 SleepObservation
