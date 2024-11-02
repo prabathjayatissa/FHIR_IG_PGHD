@@ -1,0 +1,22 @@
+id: fhir.wearables
+canonical: http://example.org/fhir/wearables
+name: WearableDeviceIG
+status: draft
+version: 0.1.0
+fhirVersion: 4.0.1
+copyrightYear: 2024
+releaseLabel: Trial Use
+publisher:
+  name: Example Healthcare Organization
+  url: http://example.org
+
+dependencies:
+  hl7.fhir.r4.core: 4.0.1
+
+pages:
+  index.md:
+    title: Home
+  devices.md:
+    title: Supported Devices
+  profiles.md:
+    title: Profiles

@@ -1,0 +1,12 @@
+{
+  "name": "fhir-wearables-ig",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "fsh-sushi": "^2.11.1",
+    "firely.terminal": "^3.1.0"
+  },
+  "scripts": {
+    "build": "sushi ."
+  }
+}
