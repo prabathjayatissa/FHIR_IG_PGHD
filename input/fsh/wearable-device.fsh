@@ -11,7 +11,6 @@ Description: "Profile for representing wearable devices that collect patient-gen
 * deviceName 1..*
 * version 0..*
 
-
 CodeSystem: WearableDeviceType
 Id: wearable-device-type
 Title: "Wearable Device Type"
