@@ -10,7 +10,6 @@ Description: "Profile for sleep-related observations from wearable devices"
 * component ^slicing.discriminator.type = #pattern
 * component ^slicing.discriminator.path = "code"
 * component ^slicing.rules = #open
-
 * component contains
     totalDuration 0..1 and
     deepSleep 0..1 and
