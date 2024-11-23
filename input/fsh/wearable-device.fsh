@@ -4,7 +4,6 @@ Id: wearable-device
 Title: "Wearable Device"
 Description: "Profile for representing wearable devices that collect patient-generated health data"
 
-
 * type from WearableDeviceTypeVS (required)
 * manufacturer 1..1
 * modelNumber 1..1
