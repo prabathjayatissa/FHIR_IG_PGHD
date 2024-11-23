@@ -1,5 +1,6 @@
 # Supported Devices
 
+
 This implementation guide supports various types of wearable devices that collect patient-generated health data.
 
 ## Device Types
