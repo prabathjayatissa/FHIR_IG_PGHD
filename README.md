@@ -1,4 +1,4 @@
-# FHIR_IG_PGHD
+# FHIR IG PGHD
 created a comprehensive FHIR Implementation Guide for wearable device data with:
 
 Core profiles:
