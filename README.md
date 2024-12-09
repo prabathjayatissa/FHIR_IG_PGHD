@@ -25,11 +25,11 @@
 
 #### Documentation pages:
 
-    Home page with overview
+   Home page with overview
   
-    Supported devices
+   Supported devices
  
-    Profile documentation
+   Profile documentation
 
 The IG uses FHIR R4 (4.0.1) and includes proper terminology bindings to LOINC, SNOMED CT, and UCUM. 
 
