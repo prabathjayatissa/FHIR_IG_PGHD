@@ -20,7 +20,7 @@ Description: "Profile for sleep-related observations from wearable devices"
 * component[totalDuration].code = $loinc#93832-4 "Sleep duration"
 * component[totalDuration].value[x] only Quantity
 * component[totalDuration].valueQuantity.system = $ucum
-* component[totalDuration].valueQuantity.code = #
+* component[totalDuration].valueQuantity.code = #min
 
 * component[deepSleep].code = $loinc#93831-6 "Deep sleep time"
 * component[deepSleep].value[x] only Quantity
