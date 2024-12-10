@@ -12,6 +12,7 @@ Description: "Profile for observations collected from wearable devices"
 * category contains vital-signs 1..1
 * category[vital-signs] = http://terminology.hl7.org/CodeSystem/observation-category#vital-signs
 
+
 * code 1..1 MS
 * device only Reference(WearableDevice)
 * device 1..1 MS
