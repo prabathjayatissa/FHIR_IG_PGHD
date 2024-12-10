@@ -29,6 +29,4 @@ Title: "Measurement Method"
 ValueSet: MeasurementMethodVS
 Id: measurement-method-vs
 Title: "Measurement Method Value Set"
-
-
 * include codes from system MeasurementMethod
