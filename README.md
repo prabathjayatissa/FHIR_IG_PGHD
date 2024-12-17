@@ -1,4 +1,5 @@
 # FHIR IG PGHD
+
 ## Created a comprehensive FHIR Implementation Guide for wearable device data with:
 
 ### Core profiles:
@@ -14,8 +15,6 @@
 * SleepObservation,
 
 ### Value sets and code systems for:
-
-
 
 #### Device types
   * Measurement methods
