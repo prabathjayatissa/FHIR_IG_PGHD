@@ -3,7 +3,6 @@
 
 ### Core profiles:
 
-
 * WearableDevice,
 
 * WearableObservation (base profile),
