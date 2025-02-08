@@ -5,7 +5,6 @@ Title: "Sleep Observation"
 Description: "Profile for sleep-related observations from wearable devices"
 
 * code from SleepMetricsVS (required)
-
 * component MS
 * component ^slicing.discriminator.type = #pattern
 * component ^slicing.discriminator.path = "code"
