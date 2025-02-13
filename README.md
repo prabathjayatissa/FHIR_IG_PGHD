@@ -6,7 +6,6 @@
 
 * WearableDevice,
 
-
 * WearableObservation (base profile),
 
 * ActivityObservation,
