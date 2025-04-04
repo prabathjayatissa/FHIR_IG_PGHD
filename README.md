@@ -22,7 +22,6 @@
   * Vital signs
   * Sleep metrics
 
-
 #### Documentation pages:
 
   * Home page with overview
