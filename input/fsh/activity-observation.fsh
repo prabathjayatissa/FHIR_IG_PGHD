@@ -11,7 +11,7 @@ Description: "Profile for activity-related observations from wearable devices"
 * component ^slicing.rules = #open
 
 * component contains
-    steps 0..1 and
+    steps 0..1 and 
     distance 0..1 and
     calories 0..1 and
     activeMinutes 0..1
