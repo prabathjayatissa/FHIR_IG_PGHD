@@ -12,7 +12,7 @@
 
 * WearableVitalSigns,
 
-* SleepObservation,
+* SleepObservation
 
 ### Value sets and code systems for:
 
