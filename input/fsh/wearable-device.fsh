@@ -23,4 +23,4 @@ Title: "Wearable Device Type"
 ValueSet: WearableDeviceTypeVS
 Id: wearable-device-type-vs
 Title: "Wearable Device Type Value Set"
-* include codes from system WearableDeviceType
+* include codes from system WearableDeviceType 
