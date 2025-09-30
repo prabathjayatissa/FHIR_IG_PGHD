@@ -12,6 +12,7 @@ This IG covers:
 
 ## Profiles
 
+
 The main profiles defined in this IG are:
 - WearableDevice: For representing wearable device information
 - WearableObservation: Base profile for all wearable device observations
