@@ -2,7 +2,7 @@
 
 ## Created a comprehensive FHIR Implementation Guide for wearable device data with:
 
-### Core profiles:
+### Core profiles: 
 
 * WearableDevice,
   
